@@ -1,10 +1,14 @@
 {
-  "conclusion": "More updates coming soon",
-  "introduction": "Breaking AI news today",
+  "conclusion": "End of weekly summary",
+  "introduction": "Weekly AI roundup",
   "sections": [
     {
-      "content": "New vision models released",
-      "title": "Computer Vision"
+      "content": "Advanced robotics news",
+      "title": "Robotics"
+    },
+    {
+      "content": "AI ethics discussions",
+      "title": "Ethics"
     }
   ]
 }
